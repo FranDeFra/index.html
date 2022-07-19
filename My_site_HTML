@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#00BCD4" />
+    <title>Francesco De Francesco | Links</title>
+
+    <meta name="description"
+          content="Tutti i miei link piu importanti" />
+
+    <meta itemprop="name" content="Francesco De Francesco | Links" />
+
+    <meta itemprop="image"
+          content="/assets/preview.png" />
+
+    <meta property="og:title" content="Francesco De Francesco | Links" />
+    <meta property="og:description" content="Tutti i miei link piu importanti" />
+    <meta property="og:site_name" content="Francesco De Francesco" />
+    <meta property="og:url" content="" />
+    <meta property="og:type" content="website" />
+    <meta 
+          property="og:image"
+          content="/assets/preview.png" 
+    />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="600" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Francesco De Francesco | Links" />
+    <meta name="twitter:description"
+          content="Tutti i miei link piu importanti" />
+    <meta name="twitter:image"
+          content="/assets/preview.png" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link 
+          href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;500;700&display=swap"
+          rel="stylesheet"
+    />
+    <link 
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+          integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
+          crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <img src="Immagini/Foto_Sito.jpg"
+         width="460"
+         height="460"
+         alt="Francesco De Francesco"/>
+
+    <header>
+        <h1>Francesco De Francesco</h1>
+        <p>Il mio obiettivo è diventare un programmatore.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li id="linkedin">
+                <a href="https://www.linkedin.com/in/francesco-defrancesco/">
+                    <i class="fab fa-linkedin"></i>
+                    LinkedIn
+                </a>
+
+            <li id="facebook">
+                <a href="https://www.facebook.com/checco.defrancesco/">
+                    <i class="fab fa-facebook"></i>
+                    Facebook
+                </a>
+            </li>
+
+            <li id="instagram">
+                <a href="https://www.instagram.com/francesco_df99/">
+                    <i class="fab fa-instagram"></i>
+                    Instagram
+                </a>
+            </li>
+
+            <li id="github">
+                <a href="https://github.com/FranDeFra">
+                    <i class="fab fa-github"></i>
+                    GitHub
+                </a>
+            </li>
+        </ul>
+    </nav>
+</body>
+</html>
